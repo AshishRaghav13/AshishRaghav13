@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ashish Raghav</h1>
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="coding gif" width="400"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishraghav13&label=Profile%20views&color=0e75b6&style=flat" alt="ashishraghav13" /> </p>
 
 - 📫 How to reach me **ashishraghav2468@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/ashishraghav130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ashishraghav130" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-raghav-b04453221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-raghav-b04453221/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ashishraghav13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ashishraghav13" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ashish_raghav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ashish_raghav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ashishraghav2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ashishraghav2468" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ashishraghav2468/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashishraghav2468/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ashishraghav2468/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ashishraghav2468/" height="30" width="40" /></a>
+<a href="https://twitter.com/ashishraghav130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishraghav130" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-raghav-b04453221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-raghav-b04453221" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashishraghav13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashishraghav13" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ashish_raghav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashish_raghav" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashishraghav2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishraghav2468" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashishraghav2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishraghav2468" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashishraghav2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashishraghav2468" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishraghav13&show_icons=true&locale=en" alt="ashishraghav13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishraghav13&" alt="ashishraghav13" /></p>
+
